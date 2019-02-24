@@ -1,5 +1,6 @@
 package cn.ljlin233.spittr.config;
 
+import org.springframework.context.annotation.Bean;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 //import cn.ljlin233.spittr.web.WebConfig;
 
